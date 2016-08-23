@@ -1,0 +1,21 @@
+{
+  "name": "hexo-helper-effective-posts",
+  "version": "0.0.1",
+  "description": "More Effective Post Plugin for Hexo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gazf/hexo-helper-effective-posts.git"
+  },
+  "dependencies": {
+    "ejs": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/gazf/hexo-helper-effective-posts/issues"
+  },
+  "author": "gazf",
+  "license": "MIT"
+}
