@@ -5,19 +5,17 @@
 npm install hexo-helper-effective-posts --save
 ```
 
-
 ## Usage
 ### Related Posts
 Add `<%- effe_related_posts([options]) %>` in template file for article.
-
 #### Options
 |option|default|description|
 |---|---|---|
-|maxCount|5||
+|maxCount|5|limit show posts|
 |ulClass|'related-posts'||
 |liClass|'related-posts-item'||
 |thumClass|'related-posts-thum'||
 |contentClass|'related-posts-content'||
-|orderBy|'date'||
+|orderBy|'date'|'date' or 'count'|
 |isAscending|false||
-|noResultMeessage|"No result."||
+|noResultMeessage|"No result."|no reault message|
