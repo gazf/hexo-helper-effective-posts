@@ -11,7 +11,7 @@ npm install hexo-helper-effective-posts --save
 Add `<%- effe_related_posts([options]) %>` in template file for article.
 
 #### Options
-|option|default|detail|
+|option|default|description|
 |---|---|---|
 |maxCount|5||
 |ulClass|'related-posts'||
