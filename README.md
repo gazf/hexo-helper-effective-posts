@@ -19,3 +19,8 @@ Add `<%- effe_related_posts([options]) %>` in template file for article.
 |orderBy|'date'|'date' or 'count'|
 |isAscending|false||
 |noResultMeessage|"No result."|no reault message|
+
+
+## Links
+### npm
+[https://www.npmjs.com/package/hexo-helper-effective-posts](https://www.npmjs.com/package/hexo-helper-effective-posts)
