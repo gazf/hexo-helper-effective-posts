@@ -8,7 +8,7 @@ npm install hexo-helper-effective-posts --save
 ## Usage
 ### Related Posts
 Add `<%- effe_related_posts([options]) %>` in template file for article.
-#### Options
+#### Options (/lib/related_posts/config.js)
 |option|default|description|
 |---|---|---|
 |maxCount|5|limit show posts|
@@ -19,8 +19,6 @@ Add `<%- effe_related_posts([options]) %>` in template file for article.
 |orderBy|'date'|'date' or 'count'|
 |isAscending|false||
 |noResultMeessage|"No result."|no reault message|
-
-The default config file located in `/lib/related_posts/config.js` directory.
 
 ## Links
 ### npm
