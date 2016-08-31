@@ -20,7 +20,7 @@ Add `<%- effe_related_posts([options]) %>` in template file for article.
 |isAscending|false||
 |noResultMeessage|"No result."|no reault message|
 
-default config file in `/lib/related_posts/config.js`.
+The default config file located in `/lib/related_posts/config.js` directory.
 
 ## Links
 ### npm
