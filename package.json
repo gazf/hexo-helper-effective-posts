@@ -8,7 +8,7 @@
     "url": "git+https://github.com/gazf/hexo-helper-effective-posts.git"
   },
   "dependencies": {
-    "ejs": "^1.0.0"
+    "ejs": "^2.5.5"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
